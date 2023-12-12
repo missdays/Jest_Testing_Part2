@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/missdays/Jest_Testing_Part2#readme",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
   }
 }
